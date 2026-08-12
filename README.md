@@ -4,8 +4,9 @@
 
 A Spotify analytics dashboard built in Power BI and enriched with Python for API integration and custom visuals. It breaks down streaming data, artist and track performance, and listener behavior across 2024, with a Python heatmap, Spotify API album art, and interactive Power BI visuals.
 
-📈[**Download the PowerBI Dashboard**](https://github.com/ron-kothari/Spotify-Analysis-Dashboard-PowerBI-Project/blob/main/Spotify%20Dashboard.pbix)
-[**View the Python code**](https://github.com/ron-kothari/Spotify-Analysis-Dashboard-PowerBI-Project/blob/main/SpotifyScript.py)
+📈 [**Download the PowerBI Dashboard**](https://github.com/ron-kothari/Spotify-Analysis-Dashboard-PowerBI-Project/blob/main/Spotify%20Dashboard.pbix)
+
+🖥️ [**View the Python code**](https://github.com/ron-kothari/Spotify-Analysis-Dashboard-PowerBI-Project/blob/main/SpotifyScript.py)
 
 ## 🔍 Key Features
 
